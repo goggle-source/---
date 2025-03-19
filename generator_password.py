@@ -1,5 +1,5 @@
 import random
-import os
+
 
 class Password:
     alfavit = "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM"
